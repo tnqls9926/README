@@ -23,7 +23,7 @@ git 저장소를 초기화
 >  : staging area에 올림
 >  
 >  git commit   
->  : local repository에 올림
+>  : local repository에 올림    
 > 여기까지는 로컬 저장소에 해당
 -------------------------------
 > git remote add origin http://원격 저장소 주소. git
