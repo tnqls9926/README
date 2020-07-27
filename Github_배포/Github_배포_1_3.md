@@ -74,5 +74,5 @@ git 저장소를 초기화
 **fork**하기
 1. fork 버튼 누르기__ github 페이지
 2. 자기 로컬에서 작업하기__ cmd창
-  * git clone 주소
+  * git clone 주소   
   
