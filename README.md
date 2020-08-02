@@ -42,5 +42,5 @@ Github&배포_3 **[[요약](https://github.com/tnqls9926/README/blob/master/Gith
 자소설 닷컴_5 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4_1_5.md)]**<br/>
 자소설 닷컴_6 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4_1_6.md)]**<br/>
 자소설 닷컴_7 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4_1_7.md)]**<br/>
-자소설 닷컴_8 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4_1_8.md)]**<br/>
+자소설 닷컴_8 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4_1_8.md)]**<br/> 
 자소설 닷컴_9 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4/%EC%9E%90%EC%86%8C%EC%84%A4%EB%8B%B7%EC%BB%B4_1_9.md)]**<br/>
