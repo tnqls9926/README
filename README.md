@@ -1,5 +1,4 @@
 # LikeLion 8th Coding Session
-Cheet Sheet
 LikeLion 8th
 배수빈
 
