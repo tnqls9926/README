@@ -17,7 +17,7 @@ Github&배포_3 **[[요약](https://github.com/tnqls9926/README/blob/master/Gith
 마스크 알리미_3 **[[요약](https://github.com/tnqls9926/README/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_3.md)]**<br/>
 마스크 알리미_4 **[[요약](https://github.com/tnqls9926/README/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_4.md)]**<br/>
 마스크 알리미_5 **[[요약](https://github.com/tnqls9926/README/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_5.md)]**<br/>
-마스크 알리미_6 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_6.md)]**<br/>
+마스크 알리미_6 **[[요약](https://github.com/tnqls9926/README/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_6.md)]**<br/>
 마스크 알리미_7 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_7.md)]**<br/>
 마스크 알리미_8 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8/%EB%A7%88%EC%8A%A4%ED%81%AC%EC%95%8C%EB%A6%AC%EB%AF%B8_1_8.md)]**<br/>
 
