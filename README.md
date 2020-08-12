@@ -23,14 +23,14 @@ Github&배포_3 **[[요약](https://github.com/tnqls9926/README/blob/master/Gith
 
 ### 드리머리
 
-드리머리_1 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_1.md)]**<br/>
-드리머리_2 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_2.md)]**<br/>
-드리머리_3 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_3.md)]**<br/>
-드리머리_4 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_4.md)]**<br/>
-드리머리_5 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_5.md)]**<br/>
-드리머리_6 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_6.md)]**<br/>
-드리머리_7 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_7.md)]**<br/>
-드리머리_8 **[[요약](https://github.com/xxu.bin/README_Template/blob/master/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC/%EB%93%9C%EB%A6%AC%EB%A8%B8%EB%A6%AC_1_8.md)]**<br/>
+드리머리_1 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_1.md)]**<br/>
+드리머리_2 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_2.md)]**<br/>
+드리머리_3 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_3.md)]**<br/>
+드리머리_4 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_4.md)]**<br/>
+드리머리_5 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_5.md)]**<br/>
+드리머리_6 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_6.md)]**<br/>
+드리머리_7 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_7.md)]**<br/>
+드리머리_8 **[[요약](https://github.com/tnqls9926/LikeLion_Dreamary/blob/master/README_8.md)]**<br/>
 
 ### 자소설 닷컴
 
